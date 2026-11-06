@@ -1,0 +1,38 @@
+
+{
+  "version": 1,
+  "applications": [
+    {
+      "id": "netflix",
+      "title": "Netflix",
+      "description": "Films, séries et documentaires.",
+      "category": "Streaming",
+      "packageName": "com.netflix.ninja",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.netflix.ninja"
+    },
+    {
+      "id": "plex",
+      "title": "Plex",
+      "description": "Films, séries et contenus multimédias.",
+      "category": "Streaming",
+      "packageName": "com.plexapp.android",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.plexapp.android"
+    },
+    {
+      "id": "spotify",
+      "title": "Spotify",
+      "description": "Musique, podcasts et playlists.",
+      "category": "Musique",
+      "packageName": "com.spotify.tv.android",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.spotify.tv.android"
+    },
+    {
+      "id": "disney",
+      "title": "Disney+",
+      "description": "Films et séries Disney.",
+      "category": "Streaming",
+      "packageName": "com.disney.disneyplus",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.disney.disneyplus"
+    }
+  ]
+}
